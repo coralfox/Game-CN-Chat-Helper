@@ -1,4 +1,4 @@
-# Borderlands Helper
+# Borderlands Helper|无主之地3小精灵
 根据millionart的GIT项目,鼠疫中文聊天工具,稍微修改了下,变成无主3的中文聊天工具.
 
 
@@ -11,9 +11,7 @@
 
 1. 增加X标记发送自定义的快捷语句功能(界面)
 
-2. 增加自动备份存档的功能(界面)
-
-   ![](https://github.com/coralfox/Borderlands3-Helper/raw/master/Preview/BackUpUI.png)
+2. 增加指令备份功能
 
 3. 增加大混乱BUFF显示(层数),或者有其它之类的必要状态显示(或者敌人高亮....光污染,都看不到敌人在那里了)
 
@@ -41,15 +39,36 @@
   
   ![](https://github.com/coralfox/Borderlands3-Helper/raw/master/Preview/HotkeyUI.png)
 
+----
+## 功能二|Auto BackUp | 自动备份
 
+![](https://github.com/coralfox/Borderlands3-Helper/raw/master/Preview/BackUpUI.png)
+
+- 可以定时备份存档,自定义时间(PS:必须无主3激活时有效)
+
+- 自定义存档份数,达到上限后,最早的文件夹会被删除
+
+- 可以设置是否变动才备份.比如你有3个角色  1.save 2.save  3.save,玩1角色的时候 只保存1.save 还有profile.sav
+
+- 可以快捷打开存档文件夹..手动操作还原等
+
+  ![](https://github.com/coralfox/Borderlands3-Helper/raw/master/Preview/backupDetails.png)
+
+- 存档还原因为关系大,暂不提供
 
 ----
 
 ## Update Log | 更新记录
 
-目前版本:1.2
+目前版本:3.0
 
-目前状态
+
+
+-- 3.0
+
+1.增加自动备份功能
+
+2.修改聊天相关功能
 
 --2.1
 
